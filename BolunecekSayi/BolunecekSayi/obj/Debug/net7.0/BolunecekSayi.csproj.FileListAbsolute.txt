@@ -1,0 +1,15 @@
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/bin/Debug/net7.0/BolunecekSayi
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/bin/Debug/net7.0/BolunecekSayi.deps.json
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/bin/Debug/net7.0/BolunecekSayi.runtimeconfig.json
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/bin/Debug/net7.0/BolunecekSayi.dll
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/bin/Debug/net7.0/BolunecekSayi.pdb
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.csproj.AssemblyReference.cache
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.AssemblyInfoInputs.cache
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.AssemblyInfo.cs
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.dll
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/refint/BolunecekSayi.dll
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.pdb
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/BolunecekSayi.genruntimeconfig.cache
+/Users/efe/Projects/BolunecekSayi/BolunecekSayi/obj/Debug/net7.0/ref/BolunecekSayi.dll
